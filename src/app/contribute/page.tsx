@@ -16,7 +16,7 @@ const Contribute = () => {
         <br></br>
         <p>For financial contributions, contact Library Dean Cryil Oberlander at cyril.oberlander@humboldt.edu</p>
         <br></br>
-        <p>For code contributions, our github will be released tomorrow!</p>
+        <p>For code contributions, visit our <a href='https://github.com/CPH3DH/3dHerbarium' rel='noopener noreferrer' target='_blank'>GitHub</a></p>
       </div>
       <Footer />
     </>
